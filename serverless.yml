@@ -7,6 +7,7 @@ plugins:
 
 provider:
   name: aws
+  profile: waferwire
   runtime: nodejs6.10
 
 functions:
